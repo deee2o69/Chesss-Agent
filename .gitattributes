@@ -3,4 +3,5 @@
 *.py linguist-detectable=true
 *.cpp linguist-detectable=false
 *.h linguist-detectable=false
-
+Makefile linguist-detectable=false
+stockfish/* linguist-detectable=false
